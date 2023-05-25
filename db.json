@@ -11,7 +11,7 @@
   "appointments": [
     {
       "name": "Jane Doe",
-      "image": "https://example.com/doctor-image.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7AA9NSZXVe_rlGoJumc5mw3E5bxc00g-qUA&usqp=CAU",
       "specialization": "Dermatologist",
       "experience": 10,
       "location": "Los Angeles",
@@ -21,7 +21,7 @@
     },
     {
       "name": "Mark Johnson",
-      "image": "https://example.com/doctor-image.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxUJ_kOh-4mPOy2oYS6a7fe6gNfuF17uM61Q&usqp=CAU",
       "specialization": "Pediatrician",
       "experience": 5,
       "location": "Chicago",
